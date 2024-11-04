@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="bmt"
+                 name="BM Tool Documentation"
+                  start-page="Notes-de-mise-a-jour.md">
+
+    <toc-element topic="Notes-de-mise-a-jour.md">
+        <toc-element topic="Mise-a-jour-2410.08.md"/>
+    </toc-element>
+</instance-profile>
