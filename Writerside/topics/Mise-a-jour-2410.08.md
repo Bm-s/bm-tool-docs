@@ -8,6 +8,6 @@ Passage sur un système basé sur la date.
 
 BM Tool bénéficie d'une nouvelle interface
  
-## Création de la Web App 
+## Création de la Web App
 
-Une Web App est maintenant disponible pour la consultation des tâches sous https://app.bm-tool.ch/ 
+Une Web App est maintenant disponible pour la consultation des tâches sous [](https://app.bm-tool.ch/) 
